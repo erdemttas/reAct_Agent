@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-openai
+langchain-google-genai
+langchainhub
+python-dotenv
+streamlit
+duckduckgo-search
+anthropic
+beautifulsoup4
+autogenstudio
+crewai
+
+
